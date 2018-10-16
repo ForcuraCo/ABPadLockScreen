@@ -20,8 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-@import UIKit;
-
+#import <UIKit/UIKit.h>
 #define SIMPLE_PIN_LENGTH 4
 
 @class ABPinSelectionView;

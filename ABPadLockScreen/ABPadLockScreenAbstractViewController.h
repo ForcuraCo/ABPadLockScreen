@@ -20,8 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-@import UIKit;
-
+#import <UIKit/UIKit.h>
 /**
  Abstract Class that encapsulates common functionality between the lock and setup screen. It is not designed to be used directly
  */

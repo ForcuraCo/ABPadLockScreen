@@ -20,8 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-@import UIKit;
-
+#import <UIKit/UIKit.h>
 /**
  A simple view that indicates if a pin has been selected or not.
  */
